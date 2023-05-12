@@ -2,7 +2,7 @@
 # Hi, I'm Sri Siddhaarth Pammi
 ## An ardent pursuer of technological knowledge
 
-⚡ Fun Fact <br><br>     1.01^365 = 37.7
+⚡ Fun Fact  ------ >  1.01^365 = 37.7
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Y99TWgvf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-siddhaarth-pammi-26b784254) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/s1ddh44rth) 
@@ -12,5 +12,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srisiddhaarthp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srisiddhaarthp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
