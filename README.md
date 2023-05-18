@@ -29,14 +29,19 @@
   <br><br>
 </div>
 <h3>GitHub Stats:</h3>
-<div>
-  <div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisiddhaarthp&theme=dark&hide_border=false" alt="GitHub Streak" style="display: block; margin-bottom: 20px; width: 400px;">
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisiddhaarthp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="display: block; width: 400px;">
-  </div>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisiddhaarthp&theme=dark&hide_border=false" alt="GitHub Streak" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisiddhaarthp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400">
+    </td>
+  </tr>
+</table>
+
 
   <h3>Socials:</h3>
   <a href="https://linkedin.com/in/sri-siddhaarth-pammi-26b784254" target="_blank">
