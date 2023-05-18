@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-
+<br>
   <h3>Socials:</h3>
   <a href="https://linkedin.com/in/sri-siddhaarth-pammi-26b784254" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 156px; height: auto;">
