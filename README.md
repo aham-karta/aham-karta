@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisiddhaarthp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisiddhaarthp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400">
     </td>
   </tr>
 </table>
