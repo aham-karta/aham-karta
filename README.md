@@ -30,10 +30,16 @@
 </div>
 <h3>GitHub Stats:</h3>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisiddhaarthp&theme=dark&hide_border=false" alt="GitHub Streak" style="float: left;height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisiddhaarthp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="float: right;height: 200px;">
+  <div style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisiddhaarthp&theme=dark&hide_border=false" alt="GitHub Streak" style="display: block; margin-bottom: 20px; width: 400px;">
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisiddhaarthp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="display: block; width: 400px;">
+  </div>
+</div>
 
   <h3>Socials:</h3>
   <a href="https://linkedin.com/in/sri-siddhaarth-pammi-26b784254" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="156" height="28">
+   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 156px; height: auto;">
+
 </a>
