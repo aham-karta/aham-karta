@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/EsX0BiGvRk8fmfuANT/giphy.gif" width="100%" />
-<h1> Hi, I'm Sri Siddhaarth Pamm <a href="https://visitcount.itsvg.in/api?id=sidxt&icon=5&color=12">
+<h1> Hi, I'm Sri Siddhaarth Pammi <a href="https://visitcount.itsvg.in/api?id=sidxt&icon=5&color=12">
 <img src="https://visitcount.itsvg.in/api?id=sidxt&icon=5&color=1" alt="Visit Count Badge" align="right">
 </a>
 </h1>
