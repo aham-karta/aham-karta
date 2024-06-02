@@ -5,8 +5,9 @@
 <br><br>
 <ul>
   <li>&#x1F4BB; An ardent pursuer of technological knowledge</li>
-  <li>&#x1F52D; I'm currently exploring the depths of C++ and APIs with fervor</li>
-  <li>&#127793; I'm embarking on JavaScript and Node JS</li>
+  <li>🔬 Working with LLMS, deep learning, and neural networks</li>
+<li>🤝 Seeking collaborators in these fields and beyond</li>
+
 </ul>
 <br>
 <div>
