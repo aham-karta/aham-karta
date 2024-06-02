@@ -51,7 +51,7 @@
 <table style="width: 100%;">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidxt&theme=dark&hide_border=false" alt="GitHub Streak" width="400">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=spia-dm&theme=dark&hide_border=false" alt="GitHub Streak" width="400">
     </td>
   </tr>
   <tr>
