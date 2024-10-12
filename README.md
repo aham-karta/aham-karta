@@ -1,5 +1,4 @@
 <img src="https://media.giphy.com/media/EsX0BiGvRk8fmfuANT/giphy.gif" width="100%" />
-<!--<h1> Hi, I'm Spia <a href="https://visitcount.itsvg.in/api?id=spia-dm&icon=5&color=12">-->
 </a>
 </h1>
 <br><br>
