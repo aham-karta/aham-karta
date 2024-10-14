@@ -2,7 +2,7 @@
 </a>
 </h1>
 <br><br>
-<h2>I'm Sri Siddhaarth, but I can't go on an exile.</h2>
+<h2>I'm <strike>Sri</strike> Siddhaarth, but I can't go on an exile.</h2>
 <br>
 <div>
   <h4>Base Languages:</h4>
