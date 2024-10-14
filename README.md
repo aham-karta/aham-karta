@@ -5,7 +5,6 @@
 <h2>I'm Sri Siddhaarth, but I can't go on an exile.</h2>
 <br>
 <div>
-  <h3>Tech Stack:</h3><br>
   <h4>Base Languages:</h4>
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
