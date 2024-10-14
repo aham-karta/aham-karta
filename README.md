@@ -2,12 +2,7 @@
 </a>
 </h1>
 <br><br>
-<ul>
-  <li>&#x1F4BB; An ardent pursuer of technological knowledge</li>
-  <li>🔬 Working with LLMS, deep learning, and neural networks</li>
-<li>🤝 Seeking collaborators in these fields and beyond</li>
-
-</ul>
+<h2>I'm Sri Siddhaarth, but I can't go on an exile.</h2>
 <br>
 <div>
   <h3>Tech Stack:</h3><br>
