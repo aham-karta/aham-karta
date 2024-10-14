@@ -2,7 +2,7 @@
 </a>
 </h1>
 <br><br>
-<h2>A Siddhaarth without exile.</h2>
+<h2>Siddhaarth minus exile.</h2>
 <br>
 <div>
   <h4>Base Languages:</h4>
