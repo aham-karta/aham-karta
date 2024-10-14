@@ -2,7 +2,7 @@
 </a>
 </h1>
 <br><br>
-<h2>Hi, I'm Sri Siddhaarth</h2>
+<h2>Hi, I'm Sri Siddhaarth.</h2>
 <br>
 <div>
   <h4>Base Languages:</h4>
